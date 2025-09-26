@@ -37,6 +37,6 @@ Sou um desenvolvedor versátil com experiência em tecnologias como **Java**, **
 ### 📫 Conecte-se comigo
 
 <p align="left">
-<a href="[LINK_PARA_SEU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/drsfabio" height="30" width="40" /></a>
-<a href="mailto:[SEU_EMAIL@exemplo.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="drsfabio@outlook.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/drsfabio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/drsfabio" height="30" width="40" /></a>
+<a href="mailto:drsfabio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="drsfabio@outlook.com" height="30" width="40" /></a>
 </p>
